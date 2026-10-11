@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,55000
+2,Smartphone,Electronics,20000
+3,Headphones,Electronics,2500
+4,Smart Watch,Electronics,4500
+5,Tablet,Electronics,18000
+6,T-Shirt,Clothing,499
+7,Jeans,Clothing,1499
+8,Jacket,Clothing,2999
+9,Sneakers,Clothing,2499
+10,Backpack,Clothing,1299
+11,Rice 5kg,Grocery,450
+12,Cooking Oil,Grocery,180
+13,Tea Pack,Grocery,250
+14,Biscuits Box,Grocery,120
+15,Snacks Pack,Grocery,99
+16,Notebook Set,Home & Office,199
+17,Pen Box,Home & Office,150
+18,Office Chair,Home & Office,4500
+19,Study Table,Home & Office,6500
+20,Desk Lamp,Home & Office,799
